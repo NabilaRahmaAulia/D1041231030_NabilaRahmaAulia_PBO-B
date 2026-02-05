@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "KodePertama_Latihan1",
+            "request": "launch",
+            "mainClass": "KodePertama_Latihan1",
+            "projectName": "KodePertama_f3d3f9e1"
+        },
+        {
+            "type": "java",
+            "name": "KodePertama",
+            "request": "launch",
+            "mainClass": "KodePertama",
+            "projectName": "KodePertama_f3d3f9e1"
+        },
+        {
+            "type": "ahk",
+            "request": "launch",
+            "name": "AutoHotkey v1 Debugger",
+            "program": "",
+            "stopOnEntry": true
+        }
+    ]
+}
