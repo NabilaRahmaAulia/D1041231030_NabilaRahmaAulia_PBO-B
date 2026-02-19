@@ -1,0 +1,102 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LatihanCounter",
+            "request": "launch",
+            "mainClass": "LatihanCounter",
+            "projectName": "PBO_Praktikum_1bfbc557"
+        },
+        {
+            "type": "java",
+            "name": "LatihanKalkulator",
+            "request": "launch",
+            "mainClass": "LatihanKalkulator",
+            "projectName": "PBO_Praktikum_1bfbc557"
+        },
+        {
+            "type": "java",
+            "name": "LatihanProduk",
+            "request": "launch",
+            "mainClass": "LatihanProduk",
+            "projectName": "PBO_Praktikum_1bfbc557"
+        },
+        {
+            "type": "java",
+            "name": "LatihPerhitungan",
+            "request": "launch",
+            "mainClass": "LatihPerhitungan",
+            "projectName": "PBO_Praktikum_1bfbc557"
+        },
+        {
+            "type": "java",
+            "name": "LatihDataMahasiswa",
+            "request": "launch",
+            "mainClass": "LatihDataMahasiswa",
+            "projectName": "PBO_Praktikum_1bfbc557"
+        },
+        {
+            "type": "java",
+            "name": "p042OperatorAritmatika",
+            "request": "launch",
+            "mainClass": "p042OperatorAritmatika",
+            "projectName": "PBO_Praktikum_1bfbc557"
+        },
+        {
+            "type": "java",
+            "name": "p041NamingConvention",
+            "request": "launch",
+            "mainClass": "p041NamingConvention",
+            "projectName": "PBO_Praktikum_1bfbc557"
+        },
+        {
+            "type": "java",
+            "name": "LatihLiteral",
+            "request": "launch",
+            "mainClass": "LatihLiteral",
+            "projectName": "PBO_Praktikum_1bfbc557"
+        },
+        {
+            "type": "java",
+            "name": "Latihan2",
+            "request": "launch",
+            "mainClass": "Latihan2",
+            "projectName": "PBO_Praktikum_1bfbc557"
+        },
+        {
+            "type": "java",
+            "name": "Latihan1",
+            "request": "launch",
+            "mainClass": "Latihan1",
+            "projectName": "PBO_Praktikum_1bfbc557"
+        },
+        {
+            "type": "java",
+            "name": "KodePertama",
+            "request": "launch",
+            "mainClass": "KodePertama",
+            "projectName": "PBO_Praktikum_1bfbc557"
+        },
+        {
+            "type": "java",
+            "name": "KodePertama_Latihan1",
+            "request": "launch",
+            "mainClass": "KodePertama_Latihan1",
+            "projectName": "PBO_Praktikum_1bfbc557"
+        },
+        {
+            "type": "java",
+            "name": "p023PrimitiveData",
+            "request": "launch",
+            "mainClass": "p023PrimitiveData",
+            "projectName": "PBO_Praktikum_1bfbc557"
+        },
+        {
+            "type": "ahk",
+            "request": "launch",
+            "name": "AutoHotkey v1 Debugger",
+            "program": "",
+            "stopOnEntry": true
+        }
+    ]
+}
